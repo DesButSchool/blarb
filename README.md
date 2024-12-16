@@ -6,3 +6,5 @@ Place for my random thoughts
 - [how?](refrences/README.md)
 ---
 OwO :3
+---
+## [Pages](go-weebles/index.html)
