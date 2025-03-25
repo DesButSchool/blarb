@@ -3,6 +3,7 @@ Focus:
 - Compression
 - Markup features
 - English and Swedish support
+- Save as waveform
 
 Product: 
 - text editor app
